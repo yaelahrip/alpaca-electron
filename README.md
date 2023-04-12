@@ -38,6 +38,8 @@ Alpaca Electron
 - [ ] Chat history
 - [ ] Integration with Stable Diffusion
 
+model: https://huggingface.co/anon8231489123/gpt4-x-alpaca-13b-native-4bit-128g/blob/main/gpt4-x-alpaca-13b-ggml-q4_1-from-gptq-4bit-128g/ggml-model-q4_1.bin?fbclid=IwAR3XKKhsTFd3dsywrPXdzRcGVdBu_odLK3L7vrmeeDULt03LlOZtspXqnnM
+
 ## 🎞 Demo
 
 ![Demonstration](https://github.com/ItsPi3141/alpaca-electron/raw/main/demo.gif)
